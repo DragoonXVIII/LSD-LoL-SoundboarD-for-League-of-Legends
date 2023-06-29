@@ -43,7 +43,7 @@ function displayTimer() {
   timerRef.innerHTML = ` ${h} : ${m} : ${s} : ${ms}`;
 }
 
-function runTimer() {
+function matchStart() {
   if (int !== null) {
     clearInterval(int);
   }
