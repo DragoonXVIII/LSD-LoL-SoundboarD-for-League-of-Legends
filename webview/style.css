@@ -18,4 +18,9 @@ body {
   background-color: #2a2e3c;
   height: 32px;
 }
+
+.timerDisplay {
+  margin: 32px 0 0 32px;
+  font-size: 32px;
+}
 /* 04A777 */
