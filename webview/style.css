@@ -1,0 +1,21 @@
+/* Imports */
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,700;1,400&display=swap");
+
+/* Styles */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Josefin Sans", sans-serif;
+  background-color: #212430;
+  color: white;
+}
+
+#titlebar {
+  background-color: #2a2e3c;
+  height: 32px;
+}
+/* 04A777 */
